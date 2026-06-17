@@ -5,7 +5,7 @@
 Soy un desarrollador de software y estudiante de Ingeniería de Sistemas apasionado por construir soluciones digitales que combinen una lógica robusta con una experiencia de usuario (UX) impecable. Me encanta resolver problemas complejos y estoy en constante búsqueda de nuevos retos para seguir creciendo profesionalmente.
 
 ### 👨‍💻 Sobre mí
-- 🎓 Estudiante de 8vo semestre de **Ingeniería de Sistemas**, radicado en Cartagena, Colombia.
+- 🎓 Estudiante de 9no semestre de **Ingeniería de Sistemas**, radicado en Cartagena, Colombia.
 - 🛡️ Cuento con una **Certificación en Ciberseguridad por el MinTIC**.
 - 🌎 Poseo un buen dominio del idioma **Inglés**, lo que me permite colaborar en entornos globales y consumir documentación técnica sin límites.
 - 🌱 Actualmente expandiendo mis conocimientos hacia **Data Science, Machine Learning y AWS** (AWS Academy).
