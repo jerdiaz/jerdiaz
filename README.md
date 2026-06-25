@@ -5,6 +5,7 @@
 Soy un desarrollador de software y estudiante de Ingeniería de Sistemas apasionado por construir soluciones digitales que combinen una lógica robusta con una experiencia de usuario (UX) impecable. Me encanta resolver problemas complejos y estoy en constante búsqueda de nuevos retos para seguir creciendo profesionalmente.
 
 ### 👨‍💻 Sobre mí
+
 - 🎓 Estudiante de 9no semestre de **Ingeniería de Sistemas**, radicado en Cartagena, Colombia.
 - 🛡️ Cuento con una **Certificación en Ciberseguridad por el MinTIC**.
 - 🌎 Poseo un buen dominio del idioma **Inglés**, lo que me permite colaborar en entornos globales y consumir documentación técnica sin límites.
@@ -23,17 +24,19 @@ Soy un desarrollador de software y estudiante de Ingeniería de Sistemas apasion
 
 ### 📊 Mis Estadísticas de GitHub
 
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerdiaz&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerdiaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerdiaz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerdiaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=jerdiaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerdiaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerdiaz&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerdiaz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ### 📫 Conectemos
@@ -46,4 +49,5 @@ Si quieres hablar sobre código, oportunidades de desarrollo, o simplemente hace
 </p>
 
 ---
+
 ⭐️ *De desarrollador a desarrollador: Siempre construyendo, siempre aprendiendo.*
