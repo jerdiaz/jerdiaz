@@ -26,8 +26,8 @@ Soy un desarrollador de software y estudiante de Ingeniería de Sistemas apasion
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-sentra-labs.vercel.app/api?username=jerdiaz&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=3600&v=3" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sentra-labs.vercel.app/api/top-langs/?username=jerdiaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600&v=3" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sentra-labs.vercel.app/api?username=jerdiaz&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=3600&v=4" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sentra-labs.vercel.app/api/top-langs/?username=jerdiaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600&v=4" alt="Top Languages" />
 
 </div>
 
