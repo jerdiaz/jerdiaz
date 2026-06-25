@@ -21,6 +21,21 @@ Soy un desarrollador de software y estudiante de Ingeniería de Sistemas apasion
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
 
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerdiaz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerdiaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerdiaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerdiaz&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ### 📫 Conectemos
 
 Si quieres hablar sobre código, oportunidades de desarrollo, o simplemente hacer networking, ¡no dudes en contactarme!
